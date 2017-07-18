@@ -3,4 +3,4 @@
 
 ### 机器学习算法
 
-* xgboost 
+* xgboost [https://github.com/c-dafan/notes/tree/master/xgboost]
