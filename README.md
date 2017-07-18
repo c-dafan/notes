@@ -1,3 +1,6 @@
 # notes
 日常笔记
-###test
+
+### 机器学习算法
+
+* xgboost 
