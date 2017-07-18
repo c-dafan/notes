@@ -5,4 +5,4 @@
 
 * xgboost [进入xgboost文件夹][1]
 
-[1]: https://github.com/c-dafan/notes/blob/master/xgboost/xgboost.pdf
+[1]: https://github.com/c-dafan/notes/blob/master/xgboost
