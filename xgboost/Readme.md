@@ -1,6 +1,6 @@
 # XGBoost 笔记
 
-xgboost 与GBDT的不同[1]
+xgboost [与GBDT的不同][1]
 
 xgboost [调参方法][2]
 
