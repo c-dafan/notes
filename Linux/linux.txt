@@ -1,0 +1,231 @@
+ls -aÏÔÊ¾È«²¿ -iÏÔÊ¾id -dÏÔÊ¾ÎÄ¼ş¼Ğ -lÏÖÊµÁ¬½Ó -hÈËĞÔ»¯ÏÔÊ¾ r¶Á wĞ´ xÖ´ĞĞ
+
+cd -ÉÏ´ÎÄ¿Â¼ ..ÉÏ¼¶Ä¿Â¼ 
+
+tab ²¹È«ÃüÁî ÎÄµµÂ·¾¶
+
+mkdir ´´½¨ÎÄ¼ş¼Ğ-p  /asd/sad
+
+rm É¾³ı -rÉ¾³ıÎÄ¼ş¼Ğ -mÇ¿ÖÆÉ¾³ı
+
+rmdir É¾³ı¿ÕÎÄ¼ş¼Ğ
+
+pwd ÏÔÊ¾µ±Ç°Â·¾¶
+
+touch ´´½¨¿ÕÎÄ¼ş
+
+cp ¸´ÖÆ cp -r asfd/ /sdf  ¸´ÖÆÄ¿Â¼ cp ÎÄ¼şÃû /ÎÄ¼ş¼Ğ/ÖØÃüÃû -a .../../..
+-pÎÄ¼şÊôĞÔ  -d ¸´ÖÆÁ¬½ÓÊôĞÔ
+
+ls-l==ll
+
+ctrl +lÇåÆ½
+
+mv ¡£¡£¡£/ /¡£¡£/¡£¡£¼ôÇĞ  ²»ĞèÒª-r
+mv Ô­ÎÄ¼ûÓëºóÎÄ¼şÔÚÍ¬Ò»ÎÄ¼ş¼ĞÎª¸ÄÃû  mv ¡£¡£¡£ ¡£¡£¡£
+
+ln -sÈíÁ¬½Ó 
+
+vi ¿´ÎÄ¼ş
+cat ¿´ÎÄ¼ş
+echoĞ´Èë¶«Î÷µ½ÎÄ¼şÖĞ
+
+locateËÑË÷ ¿ìËÙÓĞ¾ÖÏŞupdatedb
+whichis 
+where Ö»ÄÜËÑË÷ÏµÍ³ÖĞµÄÃüÁî¸±£¬
+find   *Æ¥ÅäÈÎÒâ¶à¸ö×Ö·û£¿Ò»¸ö×Ö·û[]ÈÎÒâÀ¨ºÅÄÚÒ»¸ö×Ö·û  find /root -name ...
+-inname ²»Çø·Ö´óĞ¡Ğ´  -nouer  ...Ã»ÓÃ  -mtimeĞŞ¸ÄÎÄ¼şÊ±¼ä  ctime¸Ä±äÎÄ¼şÊôĞÔÊ±¼ä  atimeÎÄ¼ş·ÃÎÊÊ±¼ä  -10 10 ÌìÄÚ +10 10ÌìÇ°  10 10ÌìÊ±  .µ±Ç°Â·¾¶  -size +10k +10M  -a ==and -o==or  -exec ls -lh{}\; -inum i½Úµã
+
+grep ".." ÎÄ¼şÃû ËÑË÷×Ö·û´®-vÇø·´-i²»Çø·Ö´óĞ¡Ğ´
+
+vi/vim ´ò¿ªÎÄ¼ş£¬i¸ÄÎª²åÈë×´Ì¬£¬ £ºqÍÆ³ö  £ºw±£´æ escÍË³ö²åÈë
+
+man °ïÖú
+
+reboot ÖØÆô
+halt ¹Ø»ú
+
+sudo -su root
+info
+
+zip Ñ¹Ëõ ¸ñÊ½// zip  ºóÎÄ¼şÃû Ç°ÎÄ¼şÃû// -rÑ¹ËõÎÄ¼ş¼Ğ unzip Ñ¹ËõÎÄ¼ş
+
+gzip  //gzip Ô­ÎÄ¼ş// -rÑ¹ËõÎÄ¼ş¼Ğ/-d ½âÑ¹Ë÷  gunzip ½âÑ¹Ëõ
+
+bzip2 //bzip Ô­ÎÄ¼ş//-rÎÄ¼ş¼Ğ//-d ½âÑ¹//-k±£ÁôÔ­ÎÄ¼ş//bunzip2½âÑ¹
+
+tar ´ò°ü //tar -cvf ºóÎÄ¼ş Ô­ÎÄ¼şÃû//-c´ò°ü//-vÏÔÊ¾¹ı³Ì//-fÖ¸¶¨´ò°üºóÎÄ¼şÃû
+-x½â±¦//-jcvf´ò°ü²¢Ñ¹ËõÎÄ¼ş¸ñÊ½Îªbz2//-jxcf½âÑ¹//-zcvfÑ¹ËõÎªtar.gz¸ñÊ½//
+-zxvf ½âÑ¹//tar -zxvf ÎÄ¼şÃû -C/Â·¾¶ //tar -zcvf /Â·¾¶/t.tar.gz Ô­ÎÄ¼ş Ô­ÎÄ¼ş  //tar -ztcf ÎÄ¼şÃû
+
+shutdown -r ÖØÆô -h¹Ø»ú -cÈ¡ÏûÇ°Ò»¸ö¹Ø»úÃüÁî  shoudown -r now  Á¢¿ÌÖØÆô shoudown -r Ê±¼ä  ÔÚÊ±¼äÖØÆô
+
+init 0 ¹Ø»ú init 6 ÖØÆô
+
+mount -t ÎÄ¼şÏµÍ³ oÌØÊâÑ¡Ïî Éè±¸Ãû ¹ÒÔØµã
+
+who
+w
+last
+lastlog
+ÓÃ»§
+
+shell ÃüÁî½çÃæ  echo $SHELL ²éÑ¯shell°æ±¾ vi/etc/shells ²éÑ¯
+
+exit ÍË³ö
+echo -e "\e[1;32m¼ÓÊä³öÎÄ×Ö\e[0m"  Êä³öµ½½çÃæ
+[1;32m³Â´ó´ó±Ê¼Ç[0m
+
+#!/bin/bash  ±ØĞëĞ´
+#×¢ÊÍ
+Ğ´ÄÚÈİ
+bash ÎÄ¼şÃû  //Ö´ĞĞ½Å±¾ÎÄ¼ş  
+chmod 775 ÎÄ¼şÃû //ÊÚÈ¨Ö´ĞĞÈ¨ÏŞ  Â·¾¶ ÎÄ¼şÃû /Ö´ĞĞ½Å²½ÎÄ¼ş
+alias ²é¿´¿ì½İ¼ü alias ls=¡®ls --color=auto¡¯ ´´½¨  (ÁÙÊ±)
+Ğ´Èëvi ~/.bashrc  ÓÀ¾ÃÉúĞ§   É¾³ı£¨ÁÙÊ±£©unalias
+
+ctrl c ÖÕÖ¹µ±Ç°ÃüÁî 
+ctrl l ÇåÆÁ
+ctrl a ÃüÁîÒÆ¶¯µ½ĞĞÊ×
+ctrl e ĞĞÎ²
+ctrl u É¾³ıµ½ĞĞÊ×
+ctrl z °ÑÃüÁî·ÅÈëºóÌ¨
+ctrl r ÔÚÀúÊ·ÃüÁîÖĞËÑË÷
+history ²éÑ¯ÀúÊ·
+
+
+>>Êä³öµ½ÎÄ¼şÌí¼Ó  >¸²¸Ç  ÃüÁî >>ÎÄ¼şÃû 2>&1  ÃüÁî&&>>ÎÄ¼ş
+ ÃüÁî >>ÕıÈ·ÎÄ¼ş  2>>²»ÕıÈ·ÎÄ¼ş
+ÊäÈëÖØ¶¨Ïò  wc [Ñ¡Ïî][ÎÄ¼şÃû] -c×Ö½ÚÊı  -w µ¥´ÊÊı -lĞĞÊı 
+¶àÃüÁîÖ´ĞĞ ;ÃüÁîÎŞ¹ØÏµ  &&Óë¹ØÏµ ÃüÁî1ÕıÈ·Ö´ĞĞÃüÁî2  ||»òµÄ¹ØÏµ ÃüÁî1´íÎóÖ´ĞĞÃüÁî2
+¹ÜµÀ·û | ÃüÁî1Êä³ö½á¹ûÓÃÓÚÃüÁî2  Àı×Ó£ºll -a /etc/ |more   netstst -an |grep ×Ö·û´®
+Í¨Åä·û £¿Ò»¸ö×Ö·û  * 0µ½¶à¸ö×Ö·û [abc]Æ¥ÅäÒ»¸ö£¬a»òb»òc [a-z]Æ¥Åäaµ½z [^]·ÇÂß¼­£¬²»Æ¥ÅäÀ¨ºÅÄÚÄÚÈİ
+'$µÈ'ÄÚÈİÃ»ÓĞÌØÊâº¬Òå   ""ÖĞÌØÊâ·ûºÅÃ»ÓĞÌØÊâº¬Òå³ö$ ` \Íâ  `ÃüÁî`·´ÒıºÅÃüÁîÏÈÖ´ĞĞ Ö´ĞĞºóÄÚÈİ·Åµ½±äÁ¿ÖĞ $()Óë·´ÒıºÅÒ»Ñù  $±äÁ¿ µÃµÀ±äÁ¿Öµ  \×ªÒå·û Èç\$ ¡®$¡¯ÌØÊâº¬ÒåÈ¡Ïû
+
+vi + ÎÄ¼ş ¹â±ê×îºóÒ»ĞĞ vi +n ÎÄ¼ş ¹â±êµÚnĞĞ vi +/×Ö·û´® +ÎÄ¼ş ¹â±êµ½×Ö·û´®´¦ nÇĞ»»µ½ÏÂÒ»´¦ vi ÎÄ¼ş ÎÄ¼ş ´ò¿ªÁ½¸öÎÄ¼ş nÇĞ»»ÏÂÒ»ÎÄ¼ş NÇĞ»»ÉÏÒ»ÎÄ¼ş£¨prev£©
+u »¹Ô­µ½ÉÏ´ÎddÉ¾³ı´ËĞĞ  :! Ç¿ÖÆÖ´ĞĞ  :ls´ò¿ª¶à¸öÎÄ¼ş   :15µÚ15ĞĞ /xxxÏòÏÂËÑË÷  ?xxxÏòÉÏËÑË÷ -ctrl+f ÏòÏÂ·­Ò³-ctrl+bÏòÉÏ·­Ò³ -ctrl+dÏòÏÂ·­°ëÒ³ -ctrl+uÏòÉÏ·­°ëÒ³
+-o ÔÚ¹â±êËùÔÚĞĞÏÂÒ»ĞĞ²åÈëÒ»ĞĞ²¢ÇĞ»»µ½ÊäÈëÄ£Ê½ -yy¸´ÖÆ¹â±êËùÔÚĞĞ -pÔÚ¹â±êËùÔÚĞĞµÄÏÂ·½Õ³Ìù -PÔÚÉÏÒ»ĞĞÕ³Ìù
+df ²é¿´´ÅÅÌ·ÖÇø×´¿ö  -aÏÔÊ¾ËùÓĞ -h -H   -TÏÔÊ¾´ÅÅÌ·ÖÇøÀàĞÍ -tÏÔÊ¾Ö¸¶¨ÀàĞÍ -x²»ÏÔÊ¾Ö¸¶¨´ÅÅÌ·ÖÇøÀàĞÍ 
+du Í³¼ÆÎÄ¼ş´óĞ¡ -sÖ¸¶¨ÎÄ¼ş -h -mÕ× -b×Ö½Ú
+
+groupÓÃ»§Ö÷ add¼ÓÓÃ»§  delÉ¾³ı mod¸ÃÓÃ»§ -g±àºÅ -nÃû×Ö 
+
+cat /etc/passwd ¿´ËùÓĞÏµÍ³ÓÃ»§ĞÅÏ¢
+   useradd¼ÓÓÃ»§ -gÖ¸¶¨ÓÃ»§Ö÷ -dÖ¸¶¨ÓÃ»§ÎÄ¼ş¼Ğ usermod -cĞŞ¸ÄÓÃ»§±¸×¢ -l ĞŞ¸ÄÓÃ»§Ãû³Æ -g»»ÓÃ»§Ö÷ userdelÉ¾³ıÓÃ»§ -r ÎÄ¼şÒ»Í¬É¾³ı
+
+su ÇĞ»»ÓÃ»§ su username Ä¬ÈÏrootÓÃ»§
+
+vi /etc/sysconfig/network-scripts/ifcfgÍø¿¨ĞÅÏ¢ÎÄ¼ş
+vi /etc/resolv.conf 
+ vi /etc/sysconfig/network
+service network restartÖØÆôÍøÂç·şÎñ
+ÅäÖÃlinuxip
+(1)setupĞŞ¸Äip
+(2)onboot =no¸ÄÎªyes ÖØÆô
+(3)ĞŞ¸Äuuid 1¡£É¾³ımacµØÖ·ĞĞ2.rm-rf /etc/udev/rules¡£d/70-persistent-net¡£rules É¾³ıÍø¿¨ºÍmacµØÖÊ°ó¶¨ÎÄ¼ş 3.ÖØÆôÏµÍ³
+£¨4£©ÉèÖÃĞéÄâ»úÎªÍøÂçÁ¬½Ó£¨5£©ĞéÄâ»úÍøÂçÉèÖÃ
+
+netstat -tÁĞ³ötcpĞ­Òé¶Ë¿Ú -uÁĞ³öudpĞ­Òé¶Ë¿Ú -n²»Ê¹ÓÃÓòÃûÓë·şÎñÃû£¬¶øÊ¹ÓÃipµØÖÊºÍ¶Ë¿ÚºÅ -l½öÁĞ³ö¼àÌı×´Ì¬ÍøÂç·şÎñ -aÁĞ³öËùÓĞµÄÍøÂçÁ¬½Ó -r²é¿´Â·ÓÉÁĞ±í£¨¿´Íø¹Ø£©
+
+route -n==netstat -rn
+route add£¨del£©default gw ¡£¡£¡£¡£¡£  ¼ÓÉè¶¨Íø¹Ø
+
+nslookup ¿ÉÒÔ¿´dns£¬·­ÒëÓòÃûip
+
+ssh ÓÃ»§ip
+scp ÓÃ»§Ãûip ÎÄ¼şÂ·¾¶ ±¾µØÂ·¾¶ //ÏÂÔØÎÄ¼ş
+scp ±¾µØÎÄ¼ş ÓÃ»§Ãûip ÉÏ´«Â·¾¶  ¡£¡£ÉÏ´«ÎÄ¼ş
+rpm°²×°Èí¼ş
+rpm -ivh -i°²×° -vÏÔÊ¾ÏêÏ¸ĞÅÏ¢ -hÏÔÊ¾½ø¶È -eĞ¶ÔØ -uÉı¼¶ -q²é¿´ÊÇ·Ç°²×° -aÁĞ³öall
+chmod ĞŞ¸ÄÈ¨ÏŞ chmod u-x£¬g+x£¬o+r ÎÄ¼şÃû// chmod u=rwx£¬g=rwx£¬o=rwx ÎÄ¼şÃû//chmod 775 ÎÄ¼şÃû r=4£¬w=2£¬x=1
+chown ÓÃ»§Ãû ÎÄ¼şÃû //ĞŞ¸ÄÎÄ¼şËùÓĞÕß
+chgrp ÓÃ»§Ö÷ ÎÄ¼şÃû //ĞŞ¸ÄÎÄ¼şËùÓĞÖ÷
+umask ÁÙÊ±ĞŞ¸ÄumaskÖ¸
+vi /etc/profile ĞŞ¸Ä
+mount -o remount,acl ÁãÊ±¹ÒÔØaclÈ¨ÏŞ
+vi /etc/fstab ÓÀ¾Ã¹ÒÔØaclÈ¨ÏŞ
+
+dumpe2fs -h /dev/sda3 ²ì¿´ÊÇ·ñ¹ÒÔØaclÈ¨ÏŞ
+setfal -m u£ºÓÃ»§Ãû :È¨ÏŞ ÎÄ¼şÃû -R µÚ¹éÈ¨ÏŞ£¬ÎÄ¼ş¼ĞÄÚÎÄ¼şÍ¬Ê±¸±aclÈ¨ÏŞ 
+setfacl -m g:ÓÃ»§Ö÷£ºÈ¨ÏŞ ÎÄ¼şÃû -x É¾³ıaclÈ¨ÏŞ -b É¾³ıÎÄ¼şËùÓĞaclÈ¨ÏŞ 
+setfacl -m m:...    ÉèÖÃmaskÈ¨ÏŞ
+setfacl -m d:u:lw:wr -R ÎÄ¼ş¼ÓÃû ÉèÖÃÄ¬ÈÏÈ¨ÏŞ
+setfacl -m u:lw:wr -R ÎÄ¼ş¼ÓÃû ÉèÖÃµÚ¹éÈ¨ÏŞ
+getfacl ÎÄ¼şÃû ²é¿´ÎÄ¼şaclÈ¨ÏŞ
+Î»ÖÃ²ÎÊı±äÁ¿
+$n ${10} ´ú±í²ÎÊı1-9  ´óÓÚ10¸ö 
+$* ±äÁ¿´ú±íÃüÁîÖĞËùÓĞ²ÎÊı ¿´³ÉÒ»Ìå
+$@ ËùÓĞ²ÎÊı Ã¿¸ö²ÎÊıÇø·Ö
+$# ÃüÁîÖĞ²ÎÊı¸öÊı
+ÀıÈç£º
+#!/bin/bash
+sum1=$1
+sum2=$2
+sum3=$(( 10 + 20 ))
+sum4=$(( $sum1 + $sum2 ))
+echo $sum1
+echo $sum2
+echo $sum3
+echo $sum4
+ 
+#!/bin/bash
+
+for i in "$*"
+	do
+		echo -e "\e[1;33m $i \e[0m"
+	done
+
+for i in "$@"
+	do 
+		echo -e "\e[1;34m $i\e[0m"
+	done
+
+./ÎÄ¼şÃû ±äÁ¿1 ±äÁ¿2
+Ô¤¶¨Òå±äÁ¿
+$?ÅĞ¶ÏÉÏÒ»´ÎÖ´ĞĞÊÇ·ñÕıÈ·
+$$µ±Ç°½ø³Ì
+$!ºóÌ¨×îºóÒ»¸ö½ø³ÌºÅ
+#!/bin/bash
+
+echo "dangqian: $$"
+
+find / -name hello.sh &
+echo "houtai : $!"
+read -p ÌáÊ¾ĞÅÏ¢ -tÊ±¼ä-n ×Ö·ûÊı -sÒş²ØÄÚÈİ
+ÀıÈç£º
+#!/bin/bash
+read -p "shuruyonghuming:" -t 3 name
+echo -e "\n"
+echo $name
+read -p "passwd:" -s passwd
+echo -e "\n"
+echo $passwd
+read -p "sex:[m/w]" -n 1 sex
+echo -e "\n"
+echo $sex
+aa=1
+bb=2
+yy=$(($aa+$bb))
+declare ÉùÃ÷±äÁ¿ÀàĞÍ -Éè¶¨ÀàĞÍÊôĞÔ +È¡Ïû±äÁ¿Êı¾İÀàĞÍ -aÊı×éĞÍ -iÕûÊıĞÍ -x»·¾³±äÁ¿ -rÖ»¶ÁĞÍ£¨Ò»°ã²»ÓÃ£© -pÏÔÊ¾±äÁ¿ÀàĞÍ
+Êı×é move[0]declare -a ²»ÉùÃ÷Ò²¿É ${move[0]}È¡Öµ
+
+fpingÅúÁ¿ping  fping ip1 ip2 -aÏÔÊ¾´æ»îµÄ -u²»´æ»îµÄ -gÏÔÊ¾Ò»¶Î -fÎÄ¼şping
+hping -p¶Ë¿Ú -SÉèÖÃtcpÄ£Ê½syn°ü -aÎ±ÔìipµØÖ· Àı×Ó£ºhping -p 22 -S + ipµØÖ· -a Î±Ôìip
+
+tcpdump -np -ieno16777736 ²é¿´±»pingµØÖ·
+
+tracerouteÂ·ÓÉÉ¨Ãè 1.Ä¬ÈÏÊ¹ÓÃudpĞ­Òé  2.Ê¹ÓÃtcpĞ­Òé -T -p 3.Ê¹ÓÃicmpĞ­Òé-I ÀıÈç£ºtraceroute -T -p 80 -n www.imooc.com
+·ÀsynÀàĞÍddos¹¥»÷  1£¬¼õÉÙ·¢ËÍsyn+ack´ÎÊı  sysctl-w net.ipv4.tcp_retries=3
+sysctl -w net.ipv4.tcp_syn_retries=3
+2,syn cookies¼¼Êõ sysctl -w net.ipv4.tcp_syscookies=1
+3,Ôö¼Óbacklog¶ÓÁĞ sysctl -w net.ipv4.tcp_max_syn_backlog=2048
+²ßÂÔ1£¬¹Ø±ÕicmpĞ­ÒéÇëÇó  sysctl -w net.ipv4.icmp_echo_ignore_all=1
+²ßÂÔ2£¬Í¨¹ıiptables·ÀÖ¹É¨Ãè iptablee -AFORWARD -p tcp -syn -m limit 1/s -limit-burst 5 -j ACCEPT 
+nmap ÅúÁ¿Ö÷»ú·şÎñÉ¨Ãè  -sP icmpĞ­ÒéÉ¨Ãè  -sS -pÖ¸¶¨¶Ë¿Ú tcp synÉ¨Ãè  nmap -sS -p 0-33 192.168.48.128 -T tcpÈ«É¨Ãè -U udpĞ­ÒéÉ¨Ãè 
+vi /etc/yum.repos.d/CentOS-Base.repo yumÔ­ÎÄ¼ş  yum -y install httpd-devel  yum remove Èí¼ş
+yum grouplistÁĞ³öËùÓĞ¿ÉÓÃµÄÈí¼ş×éÁĞ±í gum groupinstallÈí¼ş×éÃû#°²×°Ö¸¶¨Èí¼ş×é£¬×éÃû¿ÉÒÔÓÉgrouplist²éÑ¯³öÀ´ yum groupremove Èí¼ş×éÃû%Ğ¶ÔØÖ¸¶¨Èí¼ş×éÃû
+apacheÄ¬ÈÏÎÄµµ¸ùÄ¿Â¼ÊÇÔÚ/var/www/html/Ä¿Â¼ÏÂ
+
+tracert £¨window£©²é¿´µ½Ö¸¶¨ÓòÃûµÄÂ·ÓÉ
+chattr  -aÖ»ÄÜÔö¼Ó²»ÄÜ¼õÉÙ  -i²»ÄÜ¸Ä±äÎÄ¼ş  lsattr²é¿´ÎÄ¼şÊôĞÔ
+
