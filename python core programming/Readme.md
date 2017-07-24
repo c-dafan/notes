@@ -17,7 +17,7 @@
 ## [第十章][10]
 
 
-[2]:https://github.com/c-dafan/notes/tree/master/python%20core%20programming/chapter%202
+[2]: https://github.com/c-dafan/notes/tree/master/python%20core%20programming/chapter%202
 
 [4]: https://github.com/c-dafan/notes/tree/master/python%20core%20programming/chapter%204
 [5]: https://github.com/c-dafan/notes/tree/master/python%20core%20programming/chapter%205
