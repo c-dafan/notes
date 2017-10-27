@@ -1,5 +1,5 @@
 
-##python \_\_init__.py的使用
+## python \_\_init__.py的使用
 
 原创在这里：http://www.cnblogs.com/no13bus/archive/2013/03/14/2958618.html
 

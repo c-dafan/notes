@@ -17,7 +17,7 @@
 * 启动jupyter notebook新技能 python.exe D:\Users\a\Anaconda3\Scripts\ipython-script.py notebook --no-browser --ip 127.0.0.1 --port 8888
 * [decorator](https://github.com/c-dafan/notes/tree/master/python/decorator)
 * [threading](https://github.com/c-dafan/notes/tree/master/python/threading)
-* [__init__](https://github.com/c-dafan/notes/tree/master/python/__init__)
+* [\_\_init__](https://github.com/c-dafan/notes/tree/master/python/__init__)
 
 
 ## [python core programming](https://github.com/c-dafan/notes/tree/master/python%20core%20programming)
