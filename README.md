@@ -17,6 +17,8 @@
 * 启动jupyter notebook新技能 python.exe D:\Users\a\Anaconda3\Scripts\ipython-script.py notebook --no-browser --ip 127.0.0.1 --port 8888
 * [decorator](https://github.com/c-dafan/notes/tree/master/python/decorator)
 * [threading](https://github.com/c-dafan/notes/tree/master/python/threading)
+* [__init__](https://github.com/c-dafan/notes/tree/master/python/__init__)
+
 
 ## [python core programming](https://github.com/c-dafan/notes/tree/master/python%20core%20programming)
 
@@ -37,6 +39,10 @@
 * [第十章](https://github.com/c-dafan/notes/tree/master/python%20core%20programming/chapter%2010)
 
 ## [贝叶斯方法](https://github.com/c-dafan/notes/tree/master/Bayesian-Methods-for-Hackers-master)
+
+## [matplotlib中文文档](https://github.com/c-dafan/notes/tree/master/matplotlib)
+
+## [seaborn中文文档](https://www.zhihu.com/people/whyhowdata/posts)
 
 
 [1]: https://github.com/c-dafan/notes/blob/master/xgboost
