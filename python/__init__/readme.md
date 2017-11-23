@@ -112,3 +112,5 @@ Sound/Utils/__init__.py是空文件,则结果如下:
     
 
 这里优先linux路径下的echo，和\_\_path__里的顺序有关，insert（0，...）插入的时候，把linux出入到了一开始dirname前面，所以linux的echo先一步输出，若插入到后面则输出的是外面的echo
+
+![image](bao.png)

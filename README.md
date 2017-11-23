@@ -11,6 +11,7 @@
 
 ## Linux [学习][5]
 
+* [ubuntu 修改密码][5]
 * [常用命令][6]
 
 ## [python基础学习](https://github.com/c-dafan/notes/tree/master/python)
