@@ -4,7 +4,7 @@
 
 ---
 
-## [big data](./big data)
+## [big data](./bigdata)
 
 ### gfs.pdf
 		
