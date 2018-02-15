@@ -45,6 +45,7 @@
 
 ## [seaborn中文文档](https://www.zhihu.com/people/whyhowdata/posts)
 
+## [论文](./paper)
 
 [1]: https://github.com/c-dafan/notes/blob/master/xgboost
 [2]: https://github.com/c-dafan/notes/tree/master/Lightgbm
