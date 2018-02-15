@@ -5,7 +5,6 @@
 ---
 
 ## [big data](./bigdata)
-
 ### gfs.pdf
 		
 		谷歌分布式系统
